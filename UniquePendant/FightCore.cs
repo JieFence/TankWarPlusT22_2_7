@@ -20,6 +20,7 @@ public class FightCore : MonoBehaviour
     public int livesCanGive = 0;
     public float attackTimeGap = 1;
     public float moveSpeed = 1;//敌人的固定速度是1，玩家的起始速度是3。
+    public int magicFinger;//2022年9月23日21：34添加，主要是为了测试vscode和git的联系紧密性。
 
 
     public void LevelUp()
